@@ -5,3 +5,5 @@
 
 """ Проекттин ичинде бир канча колдоно турган методдор """
 # git add file name / .
+# git commit -m "OOP!"
+# git push origin master/main
